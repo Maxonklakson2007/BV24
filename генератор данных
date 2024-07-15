@@ -1,3 +1,5 @@
+#датасет - https://www.kaggle.com/datasets/engamohammed/production-timing
+
 df = pd.read_csv('/content/data actual time work 2023.csv')
 
 
